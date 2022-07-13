@@ -1,3 +1,10 @@
-I am Brenton, a person who just got into the developing world.
+Hello, I am Brenton
 
-Languages that I know and use oftenly: C++, Python, Pascal.
+Laungues that I can print Hello World with:
+C
+C++
+Python
+Java
+Pascal
+Javascript
+HTML (Yes it counts)
